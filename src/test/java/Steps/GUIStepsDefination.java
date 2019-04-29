@@ -181,7 +181,11 @@ public class GUIStepsDefination extends Lib {
 		
 		
 	}
-
+	
+	@And("^user go to hell$")
+	public void go_to_hell(String hell) {
+	}
+	
 	@After
 	public void endbrowser() throws Exception {
 		Thread.sleep(3000);

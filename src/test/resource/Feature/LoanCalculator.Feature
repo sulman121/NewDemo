@@ -9,3 +9,4 @@ And user select city
 And user select store
 And user select date
 And user enter the message
+And user go to hell
